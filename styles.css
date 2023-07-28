@@ -1,0 +1,93 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(4, 23, 34);
+    
+}
+
+nav {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: right;
+    gap: 40px 70px;
+    
+    /* justify-content: space-between; */
+    
+  }
+  
+  nav li {
+    padding: 10px;
+  }
+  
+  nav li a {
+    color: #fff;
+    text-decoration: none;
+    float: right;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ccc;
+    padding: 5px;
+    float: left;
+  }
+  
+  /* Sections */
+  
+  section {
+    padding: 20px;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+  }
+  
+  /* About Section */
+  
+  #about {
+    /* background-color: #f0f0f0; */
+    text-align: center;
+    text-decoration: white;
+    color: #fff;
+  }
+  
+  /* Work Section */
+  
+  #work {
+    
+    text-align: center;
+    color: #fff;
+  }
+  
+  /* Resume Section */
+  
+  #resume {
+    text-align: center;
+    color: #fff;
+  }
+  
+  /* Contact Section */
+  
+  #contact {
+
+    text-align: center;
+    color: #fff;
+  }
+  
+  /* Footer */
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+
+  
